@@ -1,5 +1,5 @@
 import { Client } from 'node-appwrite';
-import axios from('axios');
+import axios from 'axios';
 // This is your Appwrite function
 // It's executed each time we get a request
 export default async ({ req, res, log, error }) => {
